@@ -30,7 +30,7 @@ iOS 14.0+
 Xcode 12.0+
 
 ## Contributing
-Contributions to SweetSpot are welcome! Please refer to the contributing guidelines for more information.
+Contributions to SweetSpot are welcome!
 
 ## License
 SweetSpot is released under the MIT License.
@@ -40,4 +40,3 @@ For any queries or feedback, please contact Ratan Tejaswi Vadapalli at ratanteja
 
 ## Acknowledgments
 Recipes provided by TheMealDB.
-Thanks to all contributors who have helped to make SweetSpot better.
