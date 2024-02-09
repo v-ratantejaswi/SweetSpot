@@ -11,7 +11,7 @@ import SwiftUI
 struct SweetSpotApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MealListView()
         }
     }
 }
