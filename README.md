@@ -12,9 +12,9 @@ SweetSpot is an iOS application that allows users to discover and enjoy a variet
 
 To run SweetSpot, clone the repository and open the project in Xcode:
 
-git clone https://github.com/v-ratantejaswi/SweetSpot.git
-cd SweetSpot
-open SweetSpot.xcodeproj
+git clone https://github.com/v-ratantejaswi/SweetSpot.git\n
+cd SweetSpot\n
+open SweetSpot.xcodeproj\n
 Then run the project on your preferred iOS simulator or physical device.
 
 ## Usage
